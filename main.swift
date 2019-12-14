@@ -7,10 +7,16 @@ Practice code for 100 Days of SwiftUI
 Day 1 – variables, simple data types, and string interpolation
 2019-12-12
 **************************************** */
-day1()
+//day1()
 
 /* ****************************************
 Day 2 – arrays, dictionaries, sets, and enums
 2019-12-12
 **************************************** */
-day2()
+//day2()
+
+/* ****************************************
+Day 3 – operators and conditions
+2019-12-13
+**************************************** */
+day3()
