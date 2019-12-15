@@ -25,4 +25,10 @@ Day 3 – operators and conditions
 Day 4 – loops, loops, and more loops
 2019-12-14
 **************************************** */
-day4()
+//day4()
+
+/* ****************************************
+Day 5 - functions, parameters, and errors
+2019-12-14
+**************************************** */
+day5()
