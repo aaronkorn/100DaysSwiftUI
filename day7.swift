@@ -60,7 +60,13 @@ func travel() -> (String) -> Void {
 }
 let result = travel()
 result("London")
-let result2 = travel()("London")
+
+let result2: Void = travel()("London")
+print(result2)
+
+let _: Void = travel()("London")
+
+travel()("London")
 
 day7d()
 }
