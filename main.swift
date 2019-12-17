@@ -67,4 +67,10 @@ Day 10 - classes and inheritance
 Day 11 - Protocols and extensions
 2019-12-16
 *************************************** */
-day11()
+// day11()
+
+/* ***************************************
+Day 12 - optionals, unwrapping, and typecasting
+2019-12-16
+*************************************** */
+day12()
